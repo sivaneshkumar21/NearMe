@@ -28,7 +28,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+~~~
 map.html
 
 <!DOCTYPE html>
@@ -141,7 +141,7 @@ tourist.html
 </html>
 
 
-'''
+~~~
 ## OUTPUT:
 ![alt text](<Screenshot 2025-12-01 214308.png>)
 ![alt text](<Screenshot (24).png>)
